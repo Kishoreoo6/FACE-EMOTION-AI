@@ -1,2 +1,6 @@
 tf-env/
-tf-env/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.env
